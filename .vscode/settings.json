@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.checkOnSave": false,
+    "rust-analyzer.linkedProjects": [
+    "./03_grammar/scrape_url/Cargo.toml"
+  ]
+}
